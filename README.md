@@ -2,6 +2,7 @@
 
 <h3 align="center">📕 My Technology stacks 📗</h3>
 <p align="center"> Techs that I can use or learn quickly </p>
+<br>
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=white)
