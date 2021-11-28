@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=19a2f6&height=300&section=header&text=JunHyeok%20Park&fontSize=90&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=19a2f6&height=300&section=header&text=JunHyeok%20Park&fontSize=90&fontColor=FFFFFF)
 
 <h3 align="center">📕 My Technology stacks 📗</h3>
 <p align="center"> Techs that I can use or learn quickly </p>
