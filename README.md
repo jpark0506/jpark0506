@@ -5,13 +5,14 @@
 <br>
 
 <p align="center">
-  ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-green?style=flat&logo=css3&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/Javascript-ES6+-blue?style=flat&logo=javascript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-skyblue?style=flat&logo=react&logoColor=black)
-  ![React-Native](https://img.shields.io/badge/ReactNative-darkblue?style=flat&logo=react&logoColor=white)
+  <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-green?style=flat&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ES6+-blue?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-skyblue?style=flat&logo=react&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ReactNative-darkblue?style=flat&logo=react&logoColor=white"/></a>&nbsp
+  
 </p>
 
