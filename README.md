@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=19a2f6&height=300&section=header&text=JunHyeok%20Park&fontSize=90&fontColor=FFFFFF)
 
 <h2 align="center">📕 My Technology stacks 📗</h2>
-<h4 align="center"> Techs that I can use or learn quickly </h4>
 <br>
 
 <p align="center">
@@ -25,17 +24,5 @@
       <br>
       <img align="center" src="https://img.shields.io/badge/React-skyblue?style=flat&logo=react&logoColor=black"/></a>&nbsp
       <img align="center" src="https://img.shields.io/badge/ReactNative-darkblue?style=flat&logo=react&logoColor=white"/></a>&nbsp
-    </p>
-    <br>
-    <p align="center">
-      66able
-      <br>
-      <img src="https://img.shields.io/badge/ReactNative-darkblue?style=flat&logo=react&logoColor=white"/></a>&nbsp
-      <img src="https://img.shields.io/badge/nodejs-darkgreen?style=flat&logo=nodejs&logoColor=white"/></a>&nbsp 
-    </p>
-    <p align="center">
-      excel python
-      <br>
-     <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=white"/></a>&nbsp
     </p>
   </p>
