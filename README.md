@@ -20,8 +20,17 @@
 <h2 align="center">💻 My Projects 💻</h2>
   <p align="center">
     <p align="center">
+      Calculator Statistics 1.0
+      <br>
+      <img src="https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+    </p>
+    <p align="center">
       Calculator 2.0
       <br>
       <img align="center" src="https://img.shields.io/badge/ReactNative-darkblue?style=flat&logo=react&logoColor=white"/></a>&nbsp
+    </p><p align="center">
+      Hansung BAB
+      <br>
+      <img src="https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white"/></a>&nbsp
     </p>
   </p>
