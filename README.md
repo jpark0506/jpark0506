@@ -1,5 +1,5 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=19a2f6&height=300&section=header&text=Hi,%20I'm%20JunHyeok%20Park&fontSize=45&fontColor=FFFFFF)
-<h2 align="center">📕 I can write code with 📗</h2>
+<h2 align="center">📕 I can code with 📗</h2>
 
 <h3 align="center">
   🌐 WEB
@@ -32,19 +32,46 @@
    <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
-## 💻 My Projects 💻
+<h2 align = "center">💻 My Projects 💻</h2> 
 
-### 🐣 High School 🐣
-|프로젝트|기술|
-|---|---|
-|Calculator Statistics 1.0|![Java Android](https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white)|
-|Hansung BAB|![Java Android](https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white)
-  
+<h3 align = "center">🐣 During High School 🐣</h3>
+<table align="center">
+  <tr>
+    <th>프로젝트</th>
+    <th>기술</th>
+  </tr>
+  <tr>
+    <td>
+      Calculator Statistics 1.0
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white">&nbsp
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Hansung BAB
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white">&nbsp
+    </td>
+  </tr>
+</table>
 
-### 🐔 University 🐔
-|프로젝트|기술|
-|---|---|
-|Calculator Statistics 2.0|![ReactNative](https://img.shields.io/badge/ReactNative-darkblue?style=flat&logo=react&logoColor=white)|
+<h3 align = "center">🐔 University 🐔</h3>
+
+<table align="center">
+  <tr>
+    <th>프로젝트</th>
+    <th>기술</th>
+  </tr>
+  <tr>
+    <td>Calculator Statistics 2.0</td>
+    <td>
+      <img src="https://img.shields.io/badge/ReactNative-darkblue?style=flat&logo=react&logoColor=white"/>&nbsp
+    </td>
+  </tr>
+</table>
 
 
   
