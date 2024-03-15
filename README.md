@@ -42,6 +42,7 @@
   <tr>
     <th>프로젝트</th>
     <th>기술</th>
+    <th>개발 시기</th>
   </tr>
   <tr>
     <td>
@@ -50,6 +51,9 @@
     <td>
       <img src="https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white">&nbsp
     </td>
+    <td>
+      2018
+    </td>
   </tr>
   <tr>
     <td>
@@ -57,6 +61,9 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/Java-Android-red?style=flat&logo=Java&logoColor=white">&nbsp
+    </td>
+    <td>
+      2017~2019
     </td>
   </tr>
 </table>
