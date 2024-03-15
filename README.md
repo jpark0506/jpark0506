@@ -1,4 +1,11 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=19a2f6&height=300&section=header&text=Hi,%20I'm%20JunHyeok%20Park&fontSize=45&fontColor=FFFFFF)
+
+<h3 align="center">I'm a frontend developer,</h3>
+<h3 align="center">passionate in getting a wide view in technology.</h3>
+
+<h3>
+  I'm currently working on 
+</h3>
 <h2 align="center">📕 I can code with 📗</h2>
 
 <h3 align="center">
