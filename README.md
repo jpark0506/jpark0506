@@ -1,5 +1,5 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=19a2f6&height=300&section=header&text=Hi,%20I'm%20JunHyeok%20Park&fontSize=45&fontColor=FFFFFF)
-<h2 align="center">📕 My Technology stacks 📗</h2>
+<h2 align="center">📕 I can write code with 📗</h2>
 
 <h3 align="center">
   🌐 WEB
